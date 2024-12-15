@@ -1,8 +1,17 @@
-# Hello there! 👋
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aspiring Developer</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
 
-I'm an aspiring software developer ready to take on any challenge. Special focus on game related stuff :)
+<h1>Hello there! 👋</h1>
 
-## Tech stack
+<p>I'm an aspiring software developer ready to take on any challenge. Special focus on game related stuff :)</p>
+
+<h2>Tech stack</h2>
 
 <p>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noopener noreferrer">
@@ -55,3 +64,6 @@ I'm an aspiring software developer ready to take on any challenge. Special focus
 <!-- 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jujuz1&show_icons=true&theme=tokyonight&bg_color=#1F6FEB&locale=en" alt="jujuz1"/></p>
 -->
+
+</body>
+</html>
