@@ -11,3 +11,8 @@ img {
     border: none !important;
     background: none !important;
 }
+
+.tech-stack {
+    display: flex;
+    flex-wrap: wrap;
+}
