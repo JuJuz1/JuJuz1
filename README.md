@@ -2,22 +2,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <!--<link rel="stylesheet" href="styles.css"> -->
-  <style>
-    a {
-    outline: none !important;
-    text-decoration: none !important;
-    border: none !important;
-    background: none !important;
-    }
-
-    img {
-        outline: none !important;
-        text-decoration: none !important;
-        border: none !important;
-        background: none !important;
-    }
-</style>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
@@ -28,12 +13,8 @@
 <h2>Tech stack</h2>
 
 <p>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
-  </a>
   <a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
   </a>
