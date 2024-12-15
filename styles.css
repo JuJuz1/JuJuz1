@@ -1,4 +1,13 @@
 a {
     outline: none;
     text-decoration: none;
+    border: none;
+    background: none;
+}
+
+img {
+    outline: none;
+    text-decoration: none;
+    border: none;
+    background: none;
 }
